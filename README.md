@@ -1,0 +1,1 @@
+# This is a test package with a scope
